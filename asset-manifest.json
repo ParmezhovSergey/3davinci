@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/3davinci/static/css/main.073c9b0a.css",
-    "main.js": "/3davinci/static/js/main.fbd13fca.js",
+    "main.js": "/3davinci/static/js/main.8238791c.js",
     "static/media/cn.png": "/3davinci/static/media/cn.d19e0fff40f0608f9745.png",
     "static/media/b.png": "/3davinci/static/media/b.3e577b4b60a446e9ba31.png",
     "static/media/account.png": "/3davinci/static/media/account.96f20c8840c9852a53f0.png",
     "index.html": "/3davinci/index.html",
     "main.073c9b0a.css.map": "/3davinci/static/css/main.073c9b0a.css.map",
-    "main.fbd13fca.js.map": "/3davinci/static/js/main.fbd13fca.js.map"
+    "main.8238791c.js.map": "/3davinci/static/js/main.8238791c.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fbd13fca.js"
+    "static/js/main.8238791c.js"
   ]
 }
